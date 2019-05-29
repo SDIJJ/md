@@ -4,7 +4,7 @@
 
 下载： https://studygolang.com/dl
 
-![1558944406523](C:\Users\ShoSi\AppData\Local\Temp\1558944406523.png)
+![1558944406523](./1558944406523.png)
 
 打印空串使用 ： %q
 
